@@ -9,6 +9,6 @@ Desktop Trading Software includes:
 > 
 * "ATR-SL-TP-PL" tab which gives an opportunity to define Average True Range, Stop Loss, Take Profit and Profit Loss metrics for sustainable and successful trading.
 > 
-* "Trading Log" tab which supplies to record the trade by "Stock_Name, # of Lot, "Price", "Position_Type", "Date"
+* "Trading Log" tab which supplies to record the trade by "Stock_Name", "# of Lot", "Price", "Position_Type", "Date"
 > 
 * ML/DS tab which converts the csv file that contains all datas coming from the tabs above to a new csv file together to supply Machine Learning/Data Science applications using the datas.  
