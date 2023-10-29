@@ -15,4 +15,4 @@ Desktop Trading Software includes:
 
 Used modules+frameworks : Tkinter, datetime, os, csv
 
-Note : Very little of the code has been shared for proof of work!!! 
+Note : Very little of the code has been shared!!! 
