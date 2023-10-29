@@ -14,3 +14,5 @@ Desktop Trading Software includes:
 * "ML/DS" tab which converts the csv file that contains all datas coming from the tabs above to a new csv file together to supply Machine Learning/Data Science applications using the datas.  
 
 Used modules+frameworks : Tkinter, datetime, os, csv
+
+Note : Very little of the code has been shared for proof of work!!! 
