@@ -1,7 +1,7 @@
-# Desktop_Trading_Software-
-Desktop Trading Software has been developed for tracking(logging) and doing trading professionally.   
+# Desktop_Trading_Application-
+Desktop Trading Application has been developed for trading.   
 
-Desktop Trading Software includes:  
+Desktop Trading Application includes:  
 
 * "Rules" tab which contains crucial decisions before trading such as determining the trading type (e.g. Intraday, Swing), entry point for the position, close point for the position with profit/loss, trailing stop loss percentage with respect to Volatility Indicators such as ATR (Average True Range)
 > 
