@@ -1,4 +1,5 @@
 # Desktop_Trading_Application-
+![Binance](https://img.shields.io/badge/Binance-FCD535
 Desktop Trading Application has been developed for trading.   
 
 Desktop Trading Application includes:  
